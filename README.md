@@ -16,7 +16,6 @@ Getting started
 1. <a href="https://github.com/Shopify/skeleton-theme/archive/master.zip">Download</a> the latest version
 2. or clone the git repo: <code>git clone https://github.com/Shopify/skeleton-theme.git</code>
 
-
 Basic structure
 ---------------
 ```
@@ -27,6 +26,8 @@ Basic structure
 ├── layout
 │   ├── theme.liquid
 │   └── optional alternate layouts
+├── sass
+│   └── Sass/SCSS
 ├── snippets
 │   └── optional custom code snippets
 ├── templates
@@ -39,6 +40,18 @@ Basic structure
 │   ├── page.liquid
 │   ├── product.liquid
 │   └── search.liquid
+.gitignore
+└── ignore certain files from Git
+.ruby-version
+└── set the ruby version and gemset
+config.rb
+└── config for Compass
+config.yml
+└── config for shopify_theme
+Gemfile
+└── set the Gem dependencies
+README
+└── the readme for the project
 ```
 
 Additional resources

@@ -1,0 +1,8 @@
+---
+:api_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+:password: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+:store: store.myshopify.com
+:theme_id: 
+:ignore_files:
+- README
+- style.scss
