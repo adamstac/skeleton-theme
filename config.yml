@@ -4,5 +4,11 @@
 :store: store.myshopify.com
 :theme_id: 
 :ignore_files:
+- .sass-cache/*
+- sass/*
+- .gitignore
+- .ruby-version
+- config.rb
+- Gemfile
+- Rakefile
 - README
-- style.scss
