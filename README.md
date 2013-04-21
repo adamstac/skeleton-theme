@@ -40,20 +40,20 @@ Basic structure
 │   ├── page.liquid
 │   ├── product.liquid
 │   └── search.liquid
-.gitignore
-└── Ignore specific files from Git
-.ruby-version
-└── Ruby version and gemset
-config.rb
-└── Config for Compass
-config.yml
-└── Config for shopify_theme
-Gemfile
-└── Ruby gem requirements
-Rakefile
-└── Rake tasks to automate complex tasks
-README
-└── Readme for the project
+├── .gitignore
+|   └── Ignore specific files from Git
+├── .ruby-version
+|   └── Ruby version and gemset
+├── config.rb
+|   └── Config for Compass
+├── config.yml
+|   └── Config for shopify_theme
+├── Gemfile
+|   └── RubyGem requirements
+├── Rakefile
+|   └── Rake tasks to automate complex tasks
+├── README
+|   └── Readme for the project
 ```
 
 Additional resources
