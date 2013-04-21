@@ -41,17 +41,19 @@ Basic structure
 │   ├── product.liquid
 │   └── search.liquid
 .gitignore
-└── ignore certain files from Git
+└── Ignore specific files from Git
 .ruby-version
-└── set the ruby version and gemset
+└── Ruby version and gemset
 config.rb
-└── config for Compass
+└── Config for Compass
 config.yml
-└── config for shopify_theme
+└── Config for shopify_theme
 Gemfile
-└── set the Gem dependencies
+└── Ruby gem requirements
+Rakefile
+└── Rake tasks to automate complex tasks
 README
-└── the readme for the project
+└── Readme for the project
 ```
 
 Additional resources
